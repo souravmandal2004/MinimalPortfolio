@@ -9,7 +9,7 @@ export default [
         title: "Password Generator",
         imgUrl: "assets/PasswordGenerator.jpg",
         stack: ["Html", "Css", "JavaScript"],
-        link: "https://souravmandal2004.github.io/PasswordGenerator"
+        link: "https://souravmandal2004.github.io/weatherApp/"
     },
     {
         title: "Share Modal",
